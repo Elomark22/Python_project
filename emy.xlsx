@@ -1,0 +1,28 @@
+
+(1, 'Sali', 'Vann', 50, '1/1/00', 'md')
+(2, 'Cella', 'GORDGE', 50, '1/1/00', 'md')
+(3, 'Tesi', 'Johnson', 50, '1/1/00', 'md')
+
+(1, 'Sali', 'Vann', 30, '2/2/00', 'md')
+(2, 'Cella', 'GORDGE', 30, '2/2/00', 'md')
+(3, 'Tesi', 'Johnson', 30, '2/2/00', 'md')
+
+(1, 'Sali', 'Vann', 56, '1/3/4', 'md')
+(2, 'Cella', 'GORDGE', 56, '1/3/4', 'md')
+(3, 'Tesi', 'Johnson', 56, '1/3/4', 'md')
+
+(1, 'Sali', 'Vann', 20, '1/3/4', 'md')
+(2, 'Cella', 'GORDGE', 20, '1/3/4', 'md')
+(3, 'Tesi', 'Johnson', 20, '1/3/4', 'md')
+
+(1, 'Sali', 'Vann', 50, '2/2/00', 'md')
+(2, 'Cella', 'GORDGE', 50, '2/2/00', 'md')
+(3, 'Tesi', 'Johnson', 50, '2/2/00', 'md')
+
+(1, 'Sali', 'Vann', 30, '1/1/90', 'md')
+(2, 'Cella', 'GORDGE', 30, '1/1/90', 'md')
+(3, 'Tesi', 'Johnson', 30, '1/1/90', 'md')
+
+(1, 'Sali', 'Vann', '', '', '')
+(2, 'Cella', 'GORDGE', '', '', '')
+(3, 'Tesi', 'Johnson', '', '', '')

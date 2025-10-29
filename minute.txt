@@ -1,0 +1,18 @@
+
+The Club AOBs are deliberated as follows :
+Club Buses:
+[1126/092918.379:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+End of year Party:
+[1126/092918.379:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+
+The Club AOBs are deliberated as follows :
+Club Buses:
+[1126/092918.379:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Visit To Charity:
+[1126/092918.379:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+
+The Agenda are deliberated as follows :
